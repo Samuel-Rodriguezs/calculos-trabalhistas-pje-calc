@@ -57,6 +57,14 @@ O preenchimento direto do PJe-Calc pela tela só ocorre se o recurso de uso do c
 - Afirmações sobre legislação, índices e tabelas atuais dependem de fonte atualizada.
 - Documentos digitalizados ilegíveis ou muito extensos podem exigir extração de texto prévia.
 
+## Direitos autorais
+
+Copyright © 2026 Samuel Rodrigues. Todos os direitos reservados.
+
+O código e a documentação deste repositório são protegidos pela Lei nº 9.610/1998 (direitos autorais) e pela Lei nº 9.609/1998 (programa de computador). O uso, a cópia, a modificação ou a distribuição sem autorização prévia e por escrito do autor poderá ser objeto de notificação extrajudicial, de pedido de remoção junto ao GitHub (DMCA) e das medidas judiciais cabíveis.
+
+Para pedir autorização, entre em contato pelo perfil do autor no GitHub.
+
 ## Uso
 
 Este repositório é disponibilizado como portfólio e demonstração técnica.
